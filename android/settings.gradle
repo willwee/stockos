@@ -1,0 +1,3 @@
+rootProject.name = 'stockos2'
+
+include ':app'
